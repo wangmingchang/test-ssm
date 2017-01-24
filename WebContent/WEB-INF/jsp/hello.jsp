@@ -110,7 +110,7 @@ function delImage(id){
 </head>
 <body>
 	<h1>${msg}</h1>
-	
+	 
 	<div>
 		<form id="addForm" >
 				<div>
